@@ -1,16 +1,5 @@
 rm(list=ls())
 
-##########################################################################
-#course     : CS513
-#Team       : Suresh Murali, Balasanjeevi Prabakaran, Mohammed Qazi 
-#Date       : 05/08/2020
-#comments:  : To perform Classification on Attrition Data
-##########################################################################
-
-##########################################################################
-#####       library
-##########################################################################
-
 #install.packages('descr')
 library(dplyr)
 library(caTools)
